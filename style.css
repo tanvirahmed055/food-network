@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    color: #575757;
+    font-size: 60px;
+    line-height: 30px;
+}
+span{
+    color: #FBA24F
+}
+
+p{
+    margin-bottom: 30px;
+}
+
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(#FBA24F, #FF1E1E);
+    padding: 15px 20px;
+    border-radius: 30px;
+    font-size: 18px;
+    
+}
+
+.half-width-header{
+    width: 50%;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.half-width img{
+    width: 70%;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
