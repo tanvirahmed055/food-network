@@ -1,5 +1,6 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 h1{
@@ -42,4 +43,18 @@ p{
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
+}
+
+.about-half-width{
+    width: 50%;
+}
+
+.about-half-width img{
+    width: 30%;
+    margin-left: 35%;
+}
+
+.about-area-banner{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
 }
