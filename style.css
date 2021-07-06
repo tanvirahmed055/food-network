@@ -55,6 +55,7 @@ h6{
 #order-button{
     margin-top: 8%;
 }
+
 #home-area-half-width{
     width: 50%;
     margin-top: 5%;
@@ -78,7 +79,17 @@ h6{
 .about-area-half-width{
     width: 50%;
     padding-top: 30px;
+    text-align: left;
 }
+
+.about-area-half-width h2{
+    color: #707070;
+
+}
+.about-area-half-width p{
+    padding-right: 25%;
+}
+
 
 .about-area-half-width img{
     width: 30%;
@@ -100,6 +111,7 @@ h6{
     color: #676767;
 }
 
+
 .card-item{
    width: 23%;
    margin-left: 5%;
@@ -108,7 +120,7 @@ h6{
    padding-left: 20px;
    box-shadow: 10px 10px 40px gray;
    border-radius: 10px;
-   text-align: justify;
+   text-align: left;
    margin-bottom: 5%;
 }
 
@@ -119,6 +131,12 @@ h6{
 .card-item h3{
     color: #0a0a0a;
     font-weight: 700; 
+}
+
+.client-item{
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
 }
 
 #client-area-banner{
