@@ -1,5 +1,28 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;  
+}
+
+#header-area{
+    height: 30px;
+    text-align: right;
+    margin-bottom: 40px;
+}
+.nav-area{
+   background-color: black;
+   padding-top: 15px;
+   padding-right: 70px;
+   padding-left: 0;
+   padding-bottom: 15px;
+   display: block;
+}
+
+.nav-area a{
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    padding: 30px 40px;
+    font-weight: 400;
     
 }
 
@@ -107,3 +130,4 @@ footer h4{
     font-family: 'Roboto', sans-serif;
     color: white;
 }
+
