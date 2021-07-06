@@ -49,6 +49,7 @@ h6{
     padding: 15px 20px;
     border-radius: 30px;
     font-size: 18px;
+    margin-top: 100px;
     
 }
 
@@ -69,10 +70,12 @@ h6{
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
+    margin-bottom: 40px;
 }
 
 .about-half-width{
     width: 50%;
+    padding-top: 30px;
 }
 
 .about-half-width img{
@@ -80,10 +83,25 @@ h6{
     margin-left: 35%;
 }
 
+#contact-button{
+    margin-top: 463px;
+}
 .about-area-banner{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
 }
+
+.client-area-banner{
+    background-image: linear-gradient(#fdfcfb, #e2d1c3);
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.horizontal-line{
+    border: 2px solid yellow;
+    width: 70px;
+}
+
 
 .recipies-area-section{
     text-align: center;
@@ -99,6 +117,7 @@ h6{
    box-shadow: 10px 10px 40px gray;
    border-radius: 10px;
    text-align: justify;
+   margin-bottom: 5%;
 }
 
 .recipe-item img{
