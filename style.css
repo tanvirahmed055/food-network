@@ -86,3 +86,24 @@ h6{
     color: #0a0a0a;
     font-weight: 700; 
 }
+
+footer{
+    text-align: center;
+    height: 180px;
+    background-color:#0B0D17;
+    color:aliceblue;
+    margin-right: 0;
+    margin-left: 0;
+    bottom: 0;
+}
+
+#footer-area{
+    padding: 10px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+footer h4{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
